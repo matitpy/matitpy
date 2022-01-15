@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matitpy
-- 👀 I’m interested in python 
+- 👀 I’m looking forward for my firt job IT
 - 🌱 I’m currently learning create projects of python with python
 
 <!---
