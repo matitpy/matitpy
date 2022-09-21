@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matias Traglio (law n' anccountant studient) </h1>
+<h1 align="center">Hi, I'm Mati  </h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -15,6 +15,5 @@
 </p>
 
 <h3>
- Also I'm
- chess teacher ♟️
+ Also I'm law & anccountant studient, and chess teacher ♟️
 </h3>
