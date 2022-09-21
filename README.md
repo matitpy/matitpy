@@ -15,5 +15,5 @@
 </p>
 
 <h3>
- Also I'm law & anccountant studient, and chess teacher ♟️
+ Also I'm law & accountant studient, and chess teacher ♟️
 </h3>
