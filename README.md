@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/matiastraglio/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-informational?&style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Linkedin Badge" /> </a>
 <a href="https://drive.google.com/file/d/1qrqWqR-aVFEByiCPZf8Y8ImDsQ0g8N6G/view?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/-Resume-informational?&style=for-the-badge" alt="Resume Badge" /> </a>
-<a href="https://twitter.com/tragliom/" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-informational?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge" /> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
